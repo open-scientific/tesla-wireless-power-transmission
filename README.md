@@ -651,5 +651,6 @@ Use the Hantek “DDS-3X25 USB” software to insure the generator is working pr
 
 An altenative sweep utility can be found at this [Repository](https://github.com/open-scientific/dds-sweep-util.git), The original sweep utility is no longer available due to the closure of various forums, please refer to the original [pdf](original-pdf/Jacksons_Tesla-wireless-coil_instructions_Apr-21-2011.pdf) for this content.
 
+```
 ***REDACTED CONTENT*** 
-
+```
