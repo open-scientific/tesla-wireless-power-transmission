@@ -56,6 +56,10 @@ Collect the shopping list of materials in Appendix 1. In the best Heathkit® tra
 sort these bits and pieces into the wells of a Muffin tray.
 ```
 
+![](images/step1a.png)
+
+![](images/step1b.png)
+
 ##### STEP 2
 
 ```
@@ -68,6 +72,8 @@ Do not use 1/8” thick hardboard , because it warps. We need a perfectly flat b
 board surface.
 ```
 
+![](images/step2a.png)
+
 ##### STEP 3
 
 ```
@@ -76,11 +82,14 @@ center hole of 1/16” dia. Now drill a second 1/16” dia hole located 3/16” 
 hole.
 ```
 
+![](images/step3a.png)
+
 ##### STEP 4
 
 ```
 Drill the center hole out to 11/64” dia. (to accept an 8-32 screw).
 ```
+![](images/step4a.png)
 
 ##### STEP 5
 
@@ -88,6 +97,8 @@ Drill the center hole out to 11/64” dia. (to accept an 8-32 screw).
 Measure the outside diameter of the wire you will be using. #30 Wire-Wrap wire is
 about 0.020” (20 thousandths).
 ```
+
+![](images/step5a.png)
 
 ##### STEP 6
 
@@ -98,6 +109,10 @@ Stack up 3-ring binder Reinforcement Rings until you measure a thickness about
 generous that the wire can double up to 2-high!
 ```
 
+![](images/step6a.png)
+
+![](images/step6b.png)
+
 ##### STEP 7
 
 ```
@@ -105,6 +120,8 @@ Use scissors to cut a 1/16” slot in the stack of Reinforcement Rings.
 Stick the pile of Reinforcement Rings over the center hole in the base board.
 Position the slot over the 1/16” hole.
 ```
+
+![](images/step7a.png)
 
 ##### STEP 8
 
@@ -120,6 +137,8 @@ You should buy a stripper that is calibrated for #30 wire, like Paladin PA1118 s
 below.
 ```
 
+![](images/step8a.png)
+
 ##### STEP 9
 
 ```
@@ -127,12 +146,19 @@ Here are the dimensions of the 4” acrylic disc that we will use. A supply of t
 included in our Replication Kit, or you can have a local plastics fabricator make them
 for you.
 ```
+
+![](images/step9a.png)
+
 ```
 Drill the center hole out to 11/64” diameter.
 ```
 
+![](images/step9b.png)
+
 Sand one edge of the disc using medium grit sandpaper, to take the sharp edge off.
 This will prevent slicing the wire's insulation.
+
+![](images/step9c.png)
 
 Now pull off the protective (blue) layer from both surfaces of the disc.
 
@@ -150,6 +176,8 @@ you can count Turns as the wire passes the disc slot. And the Turns will be prec
 integers from the winding starting point.
 ```
 
+![](images/step10a.png)
+
 ##### STEP 11
 
 ```
@@ -165,6 +193,9 @@ may need to remove the disc and add or subtract a Reinforcement Ring to get the
 correct gap for your wire thickness.
 Let the wire spool turn on a peg so as to avoid wire twists, as shown here:
 ```
+
+![](images/step11a.png)
+
 ```
 Now we will need to use a 2” ABS Pipe Cap to hold the disc down during winding.
 Otherwise the winding will rise and we will get doubled turns. The cap is just a
@@ -174,6 +205,8 @@ screw and secure it with a lockwasher and hex nut. Tighten the nut so that the w
 clearance all around the disc perimeter, but is not too loose. Too loose means that 2
 wire diameters can fit into the gap!
 ```
+
+![](images/step11b.png)
 
 Now continue to wind a total of 70 turns on this Secondary winding.
 Check frequently to see that the wire has not doubled up. Your clue will be that one
@@ -205,7 +238,13 @@ angle mounting foot bracket. Use our favorite 11/64” drill bit.
 See the second photo below - the bracket is GONE.
 ```
 
+![](images/step13a.png)
+
+![](images/step13b.png)
+
 ##### STEP 14
+
+![](images/step14a.png)
 
 ```
 Turn a second 8-32 hex nut onto the screw protruding from the center of the coil that
@@ -223,6 +262,9 @@ to fish the fine #30 wires up into the terminal strip holes from below.
 Now we are ready to strip the insulation from the #30 wire ends, and solder them to the
 correct terminal lugs. This is a bit tricky - so have a look at this connection diagram:
 ```
+
+![](images/step15a.png)
+
 ```
 The center end of the Secondary winding goes to the solder lug on the bottom of the
 board - this is Pin 1.
@@ -239,6 +281,8 @@ This photo, for example, shows Pin 2 of the terminal strip, and you can see that
 position) of this lug.
 BTW: There is no need to fill the center hole up with solder.
 
+![](images/step15b.png)
+
 If you are new to soldering, this Project is an opportunity to grow! I use 63/37 solder
 with rosin core flux, and a 30 Watt iron.
 
@@ -250,6 +294,8 @@ Install 4 adhesive-backed feet to the bottom of the base board. This will keep t
 board level, and also lift the bottom solder lug free of the table surface.
 ```
 
+![](images/step16a.png)
+
 ##### STEP 17
 
 ```
@@ -257,6 +303,8 @@ Mark your coil with pencil - 70 CC 5 for 70 Secondary Turns, wound CCW, and 5
 Primary Turns. You may want to use clear adhesive tape to tape the fragile #30 wires
 to the top of the disc surface, to prevent them from being snagged in the future.
 ```
+
+![](images/step17a.png)
 
 ##### STEP 18
 
@@ -279,11 +327,15 @@ Can you prove to yourself that it matters? This may be opposite “Down Under”
 anxious to hear!
 ```
 
+![](images/step18a.png)
+
 ##### STEP 19
 
 ```
 Cut an 8” length of Duct Tape and place a fender washer on the sticky side.
 ```
+
+![](images/step19a.png)
 
 ##### STEP 20
 
@@ -292,6 +344,8 @@ Pierce the tape and insert an 8-32 x 2” screw and a #8 lockwasher, entering th
 washer from the sticky side of the tape. This puts the lockwasher and screw head in
 contact with the fender washer.
 ```
+
+![](images/step20a.png)
 
 ##### STEP 21
 
@@ -303,6 +357,8 @@ Balloons can also be used. You can get these from a local Party Supplies store. 
 is no need for helium gas - just inflate with your breath.
 ```
 
+![](images/step21a.png)
+
 ##### STEP 22
 
 ```
@@ -311,6 +367,9 @@ Pierce the foil in the center with a screwdriver, and then impale the foil on th
 Add a lockwasher and hex nut, and tighten. These parts ensure that the screw is in
 good electrical contact with the foil.
 ```
+
+![](images/step22a.png)
+
 ##### CORROSION NOTE
 
 ```
@@ -329,6 +388,9 @@ Form the foil over the surface of the ball, making it as smooth as you can (not 
 and this seems not to matter much). It's OK to use foil patches as needed to cover the
 whole ball surface. These patches can be secured with clear adhesive tape.
 ```
+
+![](images/step23a.png)
+
 ```
 Some folks may want to use a large ball, floating high above the earth. Your local Party
 Supply store can sell you Helium filled Balloons. These will need to lift the extra weight
@@ -347,6 +409,8 @@ SIZE MATTERS - Tesla and Prof. Meyl both say so. The base board makes quite a st
 support for large balls. The threads do not need to be tight, since the Dielectricity is just being
 guided, not conducted. We are leaving Current Electricity behind.
 ```
+
+![](images/step24a.png)
 
 ##### STEP 25
 
@@ -428,15 +492,22 @@ can be transduced by a small series resistor. Best to use “non-inductive” re
 of 1 to 100 ohms, say. The TDS20XXC also supports export of waveforms to a USB stick,
 which is great for documenting your findings.
 
+![](images/cp01.png) 
+
 To calibrate the AFG current you can connect a 50 ohm BNC Terminator Plug such as the
 Amphenol 202103. Here the goal is to measure the USB supply current flowing into the AFG
 while it is driving the 50 ohm load, and then connect the Transmitter coil for comparison.
 
+![](images/cp02.png)
 
 You will need a few BNC adapters - Emerson CP-AD-555 ADAPTER BNC JACK TO JACK 50
 OHM.
 
+![](images/cp03.png)
+
 Pomona 1452 ADAPTER BINDING POST-BNC RECEPT is nice to have around.
+
+![](images/cp04.png)
 
 
 ##### TPI 58-012-1M CABLE MOLDED RG58/U 12"
@@ -444,6 +515,7 @@ Pomona 1452 ADAPTER BINDING POST-BNC RECEPT is nice to have around.
 
 ## APPENDIX 1
 
+![](images/apdx01.png)
 
 ## APPENDIX 2
 
@@ -565,6 +637,8 @@ Coyote... I have nothing further to say...
 
 ## APPENDIX 5
 
+![](images/apdx05.png)
+
 ##### STEINMETZ ON DIELECTRICITY
 
 [http://www.scribd.com/doc/50631885/Electric-Discharges-Waves-and-Impulses-Charles-](http://www.scribd.com/doc/50631885/Electric-Discharges-Waves-and-Impulses-Charles-)
@@ -573,14 +647,15 @@ Proteus-Steinmetz
 
 ## APPENDIX 6
 
-##### TESLA PATENT 645,576
-
+![](images/apdx06.png)
 
 This website has a nice magnifying glass so you can examine the winding directions.
 [http://www.teslauniverse.com/nikola-tesla-patents-645,576-transmission-of-energy](http://www.teslauniverse.com/nikola-tesla-patents-645,576-transmission-of-energy)
 
 
 ## APPENDIX 7
+
+As of Feb 2023, the latest guidance is to use the JDS6600 generator and deprecate the use of either the [custom PWM circuit](original-pdf/PLL%20PWM%20REPLICATION%20INSTRUCTIONS%20AUG%206-11.pdf)  or the hantek dds 3x25 equipment, whilst leaving the below notes for legacy users who may already have this equipment.
 
 #### GUIDE FOR HANTEK 3X25 ARBITRARY FUNCTION GENERATOR
 
@@ -595,49 +670,7 @@ Use the Hantek “DDS-3X25 USB” software to insure the generator is working pr
 
 #### 3X25 LONGITUDINAL WAVE TUNER UTILITY
 
-For our Scalar Field project we felt the need for a more flexible mode of tuning the frequencyas we search for resonance. So we created the **3X25 LONGITUDINAL WAVE TUNER** utility. (^)
-Its claim to fame is that you can use your mouse wheel or SCROLL UP & SCROLL DOWN
-keyboard buttons to increase or decrease the frequency by a chosen Step value. This utility
-only supports only the SINE waveform. For other waveforms please use the Hantek software.
-Install “3x25 Longitudinal Wave Tuner” software by running the file 3x35-1.0-windows-
-installer.exe This will install the software in the directory \\Program Files\ Longitudinal Wave
-Tuner
+An altenative sweep utility can be found at this [Repository](https://github.com/open-scientific/dds-sweep-util.git), The original sweep utility is no longer available due to the closure of various forums, please refer to the original [pdf](original-pdf/Jacksons_Tesla-wireless-coil_instructions_Apr-21-2011.pdf) for this content.
 
-
-
-The program will now be installed. You can run the program “ **3X25 Longitudinal Wave
-Tuner** ”
-If your Hantek generator is not plugged in you will see this Error message.
-
-
-Here is the Frequency Display that pops up when you click **Start**. (There are spaces instead
-of commas.)
-
-
-When you click **Stop** , the control panel returns to this view.
-
-```
-● You can set the Frequency by clicking on either the MHz, KHz or Hz box. Then pressthe UP ARROW or DOWN ARROW keys on your keyboard, or rotate the wheel on
-your Mouse, to increase or decrease the frequency.
-● If you Right click on either of the MHz, KHz or Hz boxes, you can choose a new Step
-value from the settings offered. This allows you to choose how rapidly you step up or
-down in frequency. As you approach closer and closer to resonance, you may want tochoose a smaller step value.
-```
-**Offset** sets the DC bias level of the sine waveform. You will normally leave this at 0.
-Once you have selected your will download these settings to the Hantek generator. **Frequency** , **Amplitude** and **Offset** , pressing the “ **Start** ” button
-
-**SWEEP FUNCTION
-Sweep** from the is not a smooth change in frequency. It is a step-wise advance of the output frequency **Start** frequency to the **Stop** frequency. The **Step** value sets the increment for each
-frequency change. The **Duration** value sets the duration time of each step. This is a minimum
-of 1 second. In our Project we will need to hold a stable frequency long enough for the vortex
-to respond and establish itself.
-
-
-To _enable_ Sweep, enter a non-zero **Step** value. To _disable_ sweep, enter a **Step** value of 0.
-Normally you will want the Sweep to repeat over and over again, so you will click the
-**Continuous Sweep** box.
-Click **Start** to begin generating the sine waveform. The “ **Start** ” button will change to a “ **Stop** ”
-button once the Hantek 3x25 Arbitrary Function generator is running.
-To interrupt the generator, click the **Stop** button.
-
+***REDACTED CONTENT*** 
 
